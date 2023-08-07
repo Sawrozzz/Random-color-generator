@@ -1,0 +1,37 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+}
+.ttt{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    transition: 1s;
+}
+.tut{
+    height: 15rem;
+    width: 30rem;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 40px;
+    text-align: center;
+
+}
+button{
+    font-size: 30px;
+    background-color:red;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    margin-top: 50px;
+    cursor: pointer;
+   
+}
